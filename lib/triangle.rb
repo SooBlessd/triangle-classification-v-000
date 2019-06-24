@@ -27,6 +27,5 @@ end
 
  class TriangleError < StandardError
    
- end
  er = 
 end
