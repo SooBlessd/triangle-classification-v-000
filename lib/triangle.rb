@@ -25,6 +25,6 @@ class Triangle
 end
 
  class TriangleError < StandardError
-   @@all = []
+   
  end
 end
